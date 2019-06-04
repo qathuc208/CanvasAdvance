@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_height_progress">150dp</dimen>
+    <dimen name="width_arc_background">3dp</dimen>
+    <dimen name="width_arc_primary">4dp</dimen>
+    <dimen name="text_size_progress">16dp</dimen>
+
+</resources>
